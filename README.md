@@ -1,2 +1,4 @@
 # CECS277
-Object Oriented Application Development
+Fall 2020 - Object Oriented Application Development
+
+This will contain various projects that I have acheieved in the course.
