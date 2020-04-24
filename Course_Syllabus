@@ -1,0 +1,63 @@
+Syllabus
+Prerequisite: CECS 274 with a grade of "C" or better.
+Disciplined methods of design, coding and testing using the Java programming language. Topics include data abstraction, encapsulation, object-oriented design, Java classes, inheritance, interfaces, composition, delegation, polymorphism and design patterns. Letter grade only (A-F). (Lecture 2 hours, laboratory 3 hours)
+
+Instructor: Mimi Opkins
+Email Address: mimi.opkins@csulb.edu
+
+Phone Number: 562-985-4285
+Office Hours: ECS-524 MW 8:30am-10:00am TTh 10:30am-11:00am or by appointment.
+
+Schedule:
+MW	10am-10:50am	VEC-402	CECS274 Lecture
+MW	11am-12:15pm	ECS-414	CECS274 Lab
+TTh	8am-8:50am	ECS-308	CECS277 Lecture
+TTh	9am-10:15am	ECS-407	CECS277 Lab
+TTh	11:00am-11:50am	ECS-411	CECS323 Lecture
+TTh	12:00pm-1:15pm	ECS-403	CECS323 Lab
+TTh	2pm-2:50am	VEC-330	CECS277 Lecture
+TTh	3pm-4:15pm	ECS-412	CECS277 Lab
+Course Materials
+Required: Big Java, Early Objects 7/E , Horstmann, Cay. Wiley, 2018, ISBN: 978-1-119-49909-1
+Supplement:Head First Design Patterns, Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson. O'Reilly Publishers, 2009
+
+You will be required to add money to your BeachCard to enable printing in the labs.
+
+Additional supplementary material outside of the class textbook will be presented and included in tests, learning activities and programming projects. Links to additional material will be posted on line.
+
+Course Goals
+Design an abstract class and an appropriate set of instantiable child classes to solve a software requirement.
+Effectively use inheritance, interfaces, composition and delegation.
+Effectively use Java Collections library
+Effectively use Design Patterns to create software.
+Effectively use try/catch/throw along with the Java Error Exception class hierarchy.
+Design a class hierarchy of medium complexity (6-12 classes) to create a software solution for a non-trivial application.
+Implement their class hierarchy to produce the software solution.
+Provide Unit Tests
+Cheating and Plagarism
+Cheating and plagiarism will not be tolerated in this course. Any individual caught cheating on quizzes, homework, lab projects, or the final exam will be punished to the full extent allowed under University regulations.
+
+Plagiarism on papers or assignments is not acceptable and work that is plagiarized will not receive credit. Plagiarism is considered cheating.
+Note: Any time another person’s work is used without giving them proper credit, it is considered plagiarism and cheating. At a minimum, any student caught cheating will receive no credit for the work concerned, and will receive a reduction of one letter grade from their final course grade.
+
+Ethics
+All assignments are to be worked in pairs of students. I do encourage you discuss your ideas and help each other. But any assignment turned in must be your own individual group's work. Any form of plagiarism or cheating -- including copying from someone else, cheating on an exam, turning someone else's work in as your own, and so on -- will result in a failing grade on the assignment (at a minimum), and could result in a failing grade in the course or even university disciplinary action.
+Also see the CSULB campus-wide computer use policy for more information. When in doubt, ask.
+
+Attendance, due dates, adds, and drops:
+Attendance is required in lecture and lab(just like a job).
+
+Programming projects are due at the start of the lecture period on the dates shown in the schedule. Lab assignments are due at the end of the lab period on the dates shown in the schedule. See grading page for more information.
+
+If you want to add this class, you must attend the first day of class and fill out a request form. Please do not attempt to add the course (or enroll in it prior to the semester) if you have not completed the prerequisite courses.
+
+I will normally honor drop requests where permitted by University policy.
+
+Reasonable Accommodation:
+Individuals with disabilities who need assistance or modification to the University’s programs and/or activities should inform the person(s) responsible for these programs and/or activities immediately upon knowing that such modification is necessary. Students with a disability or medical restriction who are requesting a classroom accommodation should contact the Bob Murphy Access Center (BMAC)at 562-985-5401 or visit SSC, room 110 during 8AM-5PM weekday hours. BMAC will work with the student to identify a reasonable accommodation in partnership with appropriate academic offices and medical providers.
+Reach out to BMAC as soon as possible. It is the student's responsibility to notify the instructor in advance of the need for accommodations of a university verified disability.
+
+Latest Update: Tuesday, 20-Aug-2019 09:41:39 PDT
+mimi.opkins@csulb.edu
+
+[Top of Page]
